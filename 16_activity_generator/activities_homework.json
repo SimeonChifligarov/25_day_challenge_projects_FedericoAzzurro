@@ -1,0 +1,86 @@
+[
+  {
+    "activity": "Movie Night",
+    "type": "indoor",
+    "cost": 15,
+    "people": 4
+  },
+  {
+    "activity": "Hiking",
+    "type": "outdoor",
+    "cost": 0,
+    "people": 2
+  },
+  {
+    "activity": "Escape Room",
+    "type": "indoor",
+    "cost": 50,
+    "people": 4
+  },
+  {
+    "activity": "Board Games",
+    "type": "indoor",
+    "cost": 10,
+    "people": 6
+  },
+  {
+    "activity": "Picnic",
+    "type": "outdoor",
+    "cost": 5,
+    "people": 3
+  },
+  {
+    "activity": "Cooking Class",
+    "type": "indoor",
+    "cost": 25,
+    "people": 2
+  },
+  {
+    "activity": "Bowling",
+    "type": "indoor",
+    "cost": 20,
+    "people": 6
+  },
+  {
+    "activity": "Museum Visit",
+    "type": "indoor",
+    "cost": 12,
+    "people": 8
+  },
+  {
+    "activity": "Karaoke",
+    "type": "indoor",
+    "cost": 18,
+    "people": 8
+  },
+  {
+    "activity": "Coffee & Chat",
+    "type": "indoor",
+    "cost": 6,
+    "people": 6
+  },
+  {
+    "activity": "Beach Day",
+    "type": "outdoor",
+    "cost": 8,
+    "people": 6
+  },
+  {
+    "activity": "Park Sports",
+    "type": "outdoor",
+    "cost": 0,
+    "people": 10
+  },
+  {
+    "activity": "Biking",
+    "type": "outdoor",
+    "cost": 5,
+    "people": 4
+  },
+  {
+    "activity": "Outdoor Photography Walk",
+    "type": "outdoor",
+    "cost": 0,
+    "people": 5
+  }
+]
