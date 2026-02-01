@@ -1,0 +1,186 @@
+[
+  {
+    "response": "Hello!",
+    "words": [
+      "hello",
+      "hi",
+      "hey",
+      "sup",
+      "heyo"
+    ],
+    "required_words": []
+  },
+  {
+    "response": "See you!",
+    "words": [
+      "bye",
+      "goodbye"
+    ],
+    "required_words": []
+  },
+  {
+    "response": "I'm doing fine, and you?",
+    "words": [
+      "how",
+      "are",
+      "you",
+      "doing"
+    ],
+    "required_words": [
+      "how"
+    ]
+  },
+  {
+    "response": "You're welcome!",
+    "words": [
+      "thank",
+      "thanks"
+    ],
+    "required_words": []
+  },
+  {
+    "response": "Same!",
+    "words": [
+      "i",
+      "love",
+      "coding"
+    ],
+    "required_words": [
+      "love",
+      "coding"
+    ]
+  },
+  {
+    "response": "Good morning!",
+    "words": [
+      "good",
+      "morning"
+    ],
+    "required_words": [
+      "morning"
+    ]
+  },
+  {
+    "response": "Good night!",
+    "words": [
+      "good",
+      "night"
+    ],
+    "required_words": [
+      "night"
+    ]
+  },
+  {
+    "response": "My name is PyBot.",
+    "words": [
+      "name",
+      "your",
+      "who",
+      "are",
+      "you"
+    ],
+    "required_words": [
+      "name"
+    ]
+  },
+  {
+    "response": "I can chat a bit and match keywords. Try asking about Python or help.",
+    "words": [
+      "what",
+      "can",
+      "you",
+      "do",
+      "help",
+      "commands"
+    ],
+    "required_words": [
+      "help"
+    ]
+  },
+  {
+    "response": "Type 'exit' or 'quit' to leave.",
+    "words": [
+      "exit",
+      "quit",
+      "leave",
+      "stop"
+    ],
+    "required_words": []
+  },
+  {
+    "response": "Nice to meet you!",
+    "words": [
+      "nice",
+      "meet",
+      "you"
+    ],
+    "required_words": [
+      "meet"
+    ]
+  },
+  {
+    "response": "Haha 😄",
+    "words": [
+      "lol",
+      "haha",
+      "lmao"
+    ],
+    "required_words": []
+  },
+  {
+    "response": "No worries!",
+    "words": [
+      "no",
+      "worries",
+      "all",
+      "good"
+    ],
+    "required_words": [
+      "worries"
+    ]
+  },
+  {
+    "response": "I'm sorry to hear that.",
+    "words": [
+      "sorry",
+      "sad",
+      "upset"
+    ],
+    "required_words": [
+      "sorry"
+    ]
+  },
+  {
+    "response": "That's awesome!",
+    "words": [
+      "cool",
+      "nice",
+      "awesome",
+      "great"
+    ],
+    "required_words": []
+  },
+  {
+    "response": "I like it too.",
+    "words": [
+      "i",
+      "like",
+      "this",
+      "that"
+    ],
+    "required_words": [
+      "like"
+    ]
+  },
+  {
+    "response": "Try asking me something about Python.",
+    "words": [
+      "python",
+      "code",
+      "programming"
+    ],
+    "required_words": [
+      "python"
+    ]
+  }
+]
